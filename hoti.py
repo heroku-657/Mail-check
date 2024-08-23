@@ -9,7 +9,7 @@ import time
 
 api_id = "22665066"
 api_hash = "92dbe89d182f72f427972d8993850130"
-bot_token = "7296559290:AAEUMr8iugnSqRbKNlrijTSTMQ2ap_5pXvk"
+bot_token = "6474058084:AAGgPZZA1Ifd-wFVDVAgsEP33nV-R1qTsRk"
 
 app = Client("132⌁", api_id=api_id, api_hash=api_hash, bot_token=bot_token)
 
